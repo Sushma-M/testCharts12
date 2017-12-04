@@ -19,9 +19,9 @@ src/main/webapp/types.js
 src/main/webapp/WEB-INF/classes/**
 src/main/webapp/WEB-INF/context.xml
 !src/main/webapp/WEB-INF/data/*.log
-src/main/webapp/WEB-INF/i18n/*
+src/main/webapp/resources/i18n/*
 src/main/webapp/WEB-INF/lib/**
 src/main/webapp/wmapp/**
 src/main/webapp/wmmobile/**
 target/**
-
+src/main/webapp/WEB-INF/dbValidations.json
